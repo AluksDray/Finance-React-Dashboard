@@ -1,0 +1,42 @@
+{
+    "CryptoIncomeData":[
+        {
+            "id": 1,
+            "Amount": "0.005863 BTC",
+            "Month": "19 March,2024"
+        },
+
+        {
+            "id": 2,
+            "Amount": "0.230000 BTC",
+            "Month": "08 March,2024"
+        },
+
+        {
+            "id": 3,
+            "Amount": "0.006854 BTC",
+            "Month": "08 March,2024"
+        }
+    ],
+
+    "CryptoInvestmentData":[
+        {
+            "id": 1,
+            "Amount": "0.007983 BTC",
+            "Month": "12 March,2024"
+        },
+
+        {
+            "id": 2,
+            "Amount": "0.540000 BTC",
+            "Month": "04 March,2024"
+        },
+
+        {
+            "id": 3,
+            "Amount": "1.016854 BTC",
+            "Month": "02 March,2024"
+        }
+    ]
+}
+

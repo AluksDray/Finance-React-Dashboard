@@ -1,0 +1,41 @@
+{
+    "TotalIncomeData":[
+        {
+            "id": 1,
+            "Amount": "$100000",
+            "Month": "19 March,2024"
+        },
+
+        {
+            "id": 2,
+            "Amount": "0.0005844 BTC",
+            "Month": "08 March,2024"
+        },
+
+        {
+            "id": 3,
+            "Amount": "0.0054953 BTC",
+            "Month": "08 March,2024"
+        }
+    ],
+
+    "TotalInvestmentData":[
+        {
+            "id": 1,
+            "Amount": "$100000",
+            "Month": "19 March,2024"
+        },
+
+        {
+            "id": 2,
+            "Amount": "0.0005844 BTC",
+            "Month": "08 March,2024"
+        },
+
+        {
+            "id": 3,
+            "Amount": "0.0054953 BTC",
+            "Month": "08 March,2024"
+        }
+    ]
+}

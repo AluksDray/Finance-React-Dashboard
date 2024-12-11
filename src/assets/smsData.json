@@ -1,0 +1,35 @@
+{
+    "SmsData":[
+        {
+            "sender": "Binance",
+            "content": "Your investment purchase on $Avax have returned a 7% profit for the last month",
+            "id": 1,
+            "date": "06 December, 2024",
+            "isRead": "True"
+        },
+
+        {
+            "sender": "Income Statement",
+            "content": "This is your income inflow and outflow for the calender year Dec 2nd, 2023 to Dec 2nd, 2024",
+            "id": 2,
+            "date": "04 December, 2024",
+            "isRead": "True"
+        },
+
+        {
+            "sender": "Trust Wallet",
+            "content": "Purchase receipt for $100 Btc payment to Akinyomi Saheed",
+            "id": 3,
+            "date": "24 November, 2024",
+            "isRead": "False"
+        },
+
+        {
+            "sender": "Expenses",
+            "content": "Expenses summary of all purchases in the last week",
+            "id": 4,
+            "date": "06 December, 2024",
+            "isRead": "False"
+        }
+    ]
+}

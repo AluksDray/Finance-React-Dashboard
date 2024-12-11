@@ -1,0 +1,41 @@
+{
+    "incomeData":[
+        {
+            "id": 1,
+            "Amount": "$100,000",
+            "Month": "19 March,2024"
+        },
+
+        {
+            "id": 2,
+            "Amount": "$20,000",
+            "Month": "08 March,2024"
+        },
+
+        {
+            "id": 3,
+            "Amount": "$27,000",
+            "Month": "08 March,2024"
+        }
+    ],
+
+    "investmentData":[
+        {
+            "id": 1,
+            "Amount": "$100,000",
+            "Month": "19 March,2024"
+        },
+
+        {
+            "id": 2,
+            "Amount": "$20,000",
+            "Month": "08 March,2024"
+        },
+
+        {
+            "id": 3,
+            "Amount": "$27,000",
+            "Month": "08 March,2024"
+        }
+    ]
+}
