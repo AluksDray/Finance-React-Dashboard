@@ -41,6 +41,7 @@ export default function NotificationSettings(){
                     <option value="sound 3">Sound 3</option>
                     <option value="sound 4">Sound 4</option>
                     <option value="sound 5">Sound 5</option>
+                    <option value="sound 6">Sound 6</option>
                 </select>
             </div>
         </div>
